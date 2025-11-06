@@ -6,9 +6,8 @@ You can search for a city to view its **current weather**, see **recent searches
 ---
 
 ## 🚀 Live Demo
-🔗 [https://geovista.onrender.com](https://geovista.onrender.com)  
-*(Add this link after hosting is complete)*
-
+The project is live and accessible here: 
+🔗 [GeoVista on Render](https://geovista-xvri.onrender.com)
 ---
 
 ## 🧩 Features
